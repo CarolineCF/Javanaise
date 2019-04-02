@@ -1,4 +1,4 @@
-# Activités Javascript
+﻿# Activités Javascript
 
 Afin de faire ces exercices, il est préférable d'avoir réalisé les tutoriels de 1 à 6 du site [codecademy](https://www.codecademy.com/).
 Une fois fait, ces exercices vous permettront de valider les acquis.
