@@ -11,7 +11,7 @@ var joeInfo = {
 };
 var team = {
     _players: [{
-        firstName: "Pablo",
+        firstName: "pablo",
         lastName:"Sanchez",
         age: 11
     }]
